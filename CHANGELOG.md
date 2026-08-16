@@ -1,6 +1,6 @@
 # Changelog
 
-Round-by-round development log of `rust/make`. Reverse-chronological:
+Round-by-round development log of `safety/oxidized/make`. Reverse-chronological:
 newest at top.
 
 ## Round 20 — 135/135 ✅ (gained `targets/WAIT`, +2 subtests)
